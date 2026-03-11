@@ -7,4 +7,4 @@ draft: true
 title: About Me
 ---
  
-Bonjour, mes petits bourgeons. Je suis Jeanne, une étudiante passionnée de fleurs!
+Bonjour, je vous présente mon site. 
