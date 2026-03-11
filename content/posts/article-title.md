@@ -1,8 +1,8 @@
 ---
-title: Les fleurs
+title: CV et voyages
 date: 2025-03-05T17:19:31+01:00
 lastmod: 2025-03-05T17:19:31+01:00
-author: Jeanne
+author: Camille Gravouil
 # avatar: /les_fleurs/img/author.jpg
 # authorlink: https://author.site
 cover: /les_fleurs/img/champdefleurs.jpg
