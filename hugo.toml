@@ -1,7 +1,7 @@
-baseurl = "https://ficellily.github.io/les_fleurs/"
+baseurl = "https://camillegrvl.github.io/CV/"
 defaultContentLanguage = "en"
 languageCode = "en"
-title = "Les fleurs"
+title = "CV et expériences"
 theme = "hugo-theme-dream"
 
 # [services]
@@ -22,7 +22,7 @@ darkTheme = "forest"
 author = "Dream"
 # description = ""
 avatar = "img/20240622_194509.jpg"
-headerTitle = "Jeanne"
+headerTitle = "Camille"
 # motto = ""
 
 # footerBottomText = ""
@@ -40,7 +40,7 @@ headerTitle = "Jeanne"
 
 # email = ""
 
-siteStartYear = 2016
+siteStartYear = 2026
 
 # favicon = "favicon.ico"
 
@@ -73,3 +73,8 @@ siteStartYear = 2016
 # [params.experimental]
 # jsDate = true
 # jsDateFormat = "yyyy年MM月dd日"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
