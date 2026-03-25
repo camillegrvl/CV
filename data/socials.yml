@@ -1,0 +1,9 @@
+socials:
+  - icon: "logo-instagram"
+    href: "https://instagram.com/VOTRE_USERNAME"
+    target: "_blank"
+    title: "Instagram"
+  - icon: "logo-linkedin"
+    href: "https://linkedin.com/in/VOTRE_PROFIL"
+    target: "_blank"
+    title: "LinkedIn"
